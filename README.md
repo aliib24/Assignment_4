@@ -4,6 +4,8 @@
 
 tic-tac-toe
 
+<img width="1440" alt="tic-tac-toe 1" src="https://user-images.githubusercontent.com/89723046/163345889-2e7bf047-4210-4a6d-bb0f-71294436bb59.png">
+
 <img width="1440" alt="tic-tac-toe" src="https://user-images.githubusercontent.com/89723046/163345425-80ec5dc6-4ec1-4ad5-8d60-0c99d71f9d5c.png">
 
 #####
