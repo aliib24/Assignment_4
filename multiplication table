@@ -1,0 +1,9 @@
+col = int(input())
+row = int(input())
+
+platform = [" " * col] * row
+
+for row in range(1, row+1):
+    print()
+    for col in range(1, col+1):
+        print(col * row, end="\t")

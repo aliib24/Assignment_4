@@ -1,0 +1,7 @@
+row = int(input())
+col = int(input())
+
+platform = [["🟩🟨"] * col] * row
+
+for row in platform:
+    print(row)
